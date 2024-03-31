@@ -1,2 +1,2 @@
    --- CHANGELOGS ---
-  [+] Launcher Reestabilished
+  [!] Launcher discontinued, the source was lost...
