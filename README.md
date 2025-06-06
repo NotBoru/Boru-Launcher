@@ -5,3 +5,5 @@
 ![image](https://github.com/BoruLLC/Boru-Launcher/assets/158343486/f486f061-9a11-4fb6-ad54-70ad23aa66a4)
 
 > WebSite: https://borulauncher.netlify.app/
+
+This project will not be updated
